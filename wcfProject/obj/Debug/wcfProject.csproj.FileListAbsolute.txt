@@ -1,0 +1,7 @@
+E:\wcfProject\wcfProject\bin\wcfProject.dll.config
+E:\wcfProject\wcfProject\bin\wcfProject.dll
+E:\wcfProject\wcfProject\bin\wcfProject.pdb
+E:\wcfProject\wcfProject\obj\Debug\wcfProject.csproj.AssemblyReference.cache
+E:\wcfProject\wcfProject\obj\Debug\wcfProject.csproj.CoreCompileInputs.cache
+E:\wcfProject\wcfProject\obj\Debug\wcfProject.dll
+E:\wcfProject\wcfProject\obj\Debug\wcfProject.pdb
